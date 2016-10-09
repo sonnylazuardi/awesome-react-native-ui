@@ -1,0 +1,17 @@
+{
+  "name": "AwesomeRNUI",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-addons-shallow-compare": "^15.3.2",
+    "react-native": "^0.34.1",
+    "react-native-code-push": "^1.14.5-beta",
+    "react-native-drawer-layout": "^1.1.0",
+    "react-native-tab-view": "0.0.31",
+    "react-native-vector-icons": "^2.1.0"
+  }
+}
